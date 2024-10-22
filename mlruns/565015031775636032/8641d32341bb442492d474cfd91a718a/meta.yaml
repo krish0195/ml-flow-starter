@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/565015031775636032/8641d32341bb442492d474cfd91a718a/artifacts
+end_time: 1729584964573
+entry_point_name: ''
+experiment_id: '565015031775636032'
+lifecycle_stage: active
+run_id: 8641d32341bb442492d474cfd91a718a
+run_name: resilient-snail-66
+run_uuid: 8641d32341bb442492d474cfd91a718a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729584964264
+status: 3
+tags: []
+user_id: Administrator
