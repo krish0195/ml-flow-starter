@@ -2,3 +2,6 @@ mlflow
 pandas
 scikit-learn
 numpy
+keras
+tensorflow
+hyperopt
